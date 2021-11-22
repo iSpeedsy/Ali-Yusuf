@@ -50,6 +50,13 @@ a:hover {
     color: #EAF6F6;
 }
 
+.skill-title-1 {
+    margin: 10px;
+}
+
+.skill-p-1 {
+    margin-top: 30px;
+}
 
 .top-container {
     background-color: #d1ece7;
